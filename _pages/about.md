@@ -24,10 +24,15 @@ I’m a team player who has the ability to automate the repetitive and complex t
 **Experience and Hands-on :**
 
 • Experience with building modern and complete CI/CD pipelines 
-• Experience with AWS (Storage, Application Services, Deployment, and Management).
+
+• Experience with AWS (Storage, Application Services, Deployment, and Management)
+
 • Worked with Infra as code tools Ansible, Terraform 
-• Used Kubernetes to orchestrate the deployment, scaling, and management of Docker Containers.
+
+• Used Kubernetes to orchestrate the deployment, scaling, and management of Docker Containers
+
 •Capture and visualize metrics using Prometheus and Grafana
+
 • Experience in Linux System Administration by managing servers in a distributed and highly available critical infrastructure
 
 **DevOps & Cloud skills:** 
