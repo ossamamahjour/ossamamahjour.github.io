@@ -37,15 +37,24 @@ I’m a team player who has the ability to automate the repetitive and complex t
 
 **DevOps & Cloud skills:** 
 
-• Cloud Services: Azure, AWS (EKS, S3, ECR, RDS, EBS, Auto Scaling .....) 
+• Cloud Services: Azure, AWS, GCP
+
 • Infrastructure automation tools: Ansible, Terraform
+
 • Continuous integration: Jenkins, GitLab CI
+
 • Containerization: Docker, Kubernetes, OpenShift
+
 • Monitoring: Prometheus, Grafana 
+
 • Administration: Linux(Ubuntu, Debian), Windows Server 2016
+
 • Programming language & SGBD : Java-Python-Bash Scripting-SQL Server, MySql
+
 • Networking: CCNA(1,2,3,4)
+
 • Knowledge Management tools: JIRA
+
 • Professional communication skill include fluency and proficiency in English and French.
 
 I'm always looking and up for new challenges, so bring it on, I'm always ready 
