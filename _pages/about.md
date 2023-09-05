@@ -11,7 +11,7 @@ date: February 21, 2022
 ---
 
 <figure style="width: 30%" class="align-right">
-  <img src="/assets/images/hawaii.jpg" alt="">
+  <img src="/assets/images/about.jpg" alt="">
 </figure>
 
 
