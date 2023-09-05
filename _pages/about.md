@@ -5,7 +5,7 @@ title: About
 author_profile: true
 header:
     overlay_image: /assets/images/joel-filipe-small-warmer.jpg
-    caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
+    caption: ""
 classes: wide
 date: February 21, 2022
 ---
@@ -16,17 +16,36 @@ date: February 21, 2022
 
 
 
-I'm a Master's student in Computer Science at Northeastern University (Silicon Valley campus), graduating in May 2023. `Cross-validated` is my personal blog to keep track of my projects and different HOWTOs related to data and tech.
 
-I’m passionate about Data Analytics and Data Science and recently discovered that I enjoy coding. Since Data Engineering is at the intersection of both Data Science and Software Engineering - both fields that I love - I decided to concentrate in Data Engineering.
 
-I have strong programming skills in **Python** and currently learning **AWS, Spark, Hadoop and MapReduce**. I have solid understanding of Machine Learning and Databases (**Oracle, MongoDB, Redis**). My previous school [projects](/portfolio) also involved Node.js, Bootstrap, Java, C++.
+DevOps & Cloud enthusiast, I completely agree with the idea of « The key in such a transition to continuous delivery is to expect things to get worse before you’ll be able to make them better ».
+I’m a team player who has the ability to automate the repetitive and complex tasks in multiple environments, with the mindset of don’t just build to deliver but design the best solution which you can be proud of
 
-Before enrolling to my Master’s program, I got a PhD in Political Science and worked as a Managing Editor for online analytical journal. During my previous career in academia, I developed strong [analytical, communication and management skills](/achievements/). I also have completed a number of [Data Science specializations online](/certificates).
+**Experience and Hands-on :**
 
-I am the person who takes initiative and stays curious.
+• Experience with building modern and complete CI/CD pipelines 
+• Experience with AWS (Storage, Application Services, Deployment, and Management).
+• Worked with Infra as code tools Ansible, Terraform 
+• Used Kubernetes to orchestrate the deployment, scaling, and management of Docker Containers.
+•Capture and visualize metrics using Prometheus and Grafana
+• Experience in Linux System Administration by managing servers in a distributed and highly available critical infrastructure
 
-Feel free to [contact me](mailto: kbosko@cross-validated.com) if you find my blog useful, think I might be a good fit or simply would like to connect.
+**DevOps & Cloud skills:** 
+
+• Cloud Services: Azure, AWS (EKS, S3, ECR, RDS, EBS, Auto Scaling .....) 
+• Infrastructure automation tools: Ansible, Terraform
+• Continuous integration: Jenkins, GitLab CI
+• Containerization: Docker, Kubernetes, OpenShift
+• Monitoring: Prometheus, Grafana 
+• Administration: Linux(Ubuntu, Debian), Windows Server 2016
+• Programming language & SGBD : Java-Python-Bash Scripting-SQL Server, MySql
+• Networking: CCNA(1,2,3,4)
+• Knowledge Management tools: JIRA
+• Professional communication skill include fluency and proficiency in English and French.
+
+I'm always looking and up for new challenges, so bring it on, I'm always ready 
+
+Feel free to [contact me](mailto: ossama.mahjour97@gmail.com) if you find my blog useful, think I might be a good fit or simply would like to connect.
 {: .text-justify}
 
 
