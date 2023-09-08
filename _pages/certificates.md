@@ -9,7 +9,7 @@ header:
 classes: wide
 ---
 
-### Certified  [<i class="fas fa-link" aria-hidden="true"></i>](../assets/docs/certificates/kbosko_AWS_DynamoDB_certificate.pdf)
+### Certified  
 - AWS Certified Solutions Architect – Associate
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: Azure Administrator Associate
