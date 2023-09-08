@@ -21,7 +21,7 @@ classes: wide
 - Hashicorp : Terraform Associate 
 - Certified Kubernetes Administrator (CKA)
 
-----------------------------------------
+
 
 
 
