@@ -26,24 +26,7 @@ feature_row0-1:
         - Flask
         - ECS
         - Docker
-<!-- 
-feature_row0-2:
-  - image_path: assets/gif/wumpus.gif
-    alt: "Java game demo"
-    title: "Hunt the Wumpus Game"
-    text: "Java-based implementation of the '73 classics [\"Hunt the Wumpus\"](https://en.wikipedia.org/wiki/Hunt_the_Wumpus), using MVC design pattern and object oriented programming (OOP). The game can be played in both GUI and text-based modes."
-    url: "https://github.com/k-bosko/HWT"
-    btn_label: "Java code"
-    btn_class: "btn--primary"
-    url2: "https://github.com/k-bosko/HWT"
-    btn_label2: "UML Diagram"
-    btn_class: "btn--primary"
-    tags:
-        - Java
-        - MVC
-        - OOP
-        - UML
--->
+
 feature_row0-3:
   - image_path: assets/gif/ghostkitchen.gif
     alt: "Node.js app demo"
