@@ -10,7 +10,7 @@ classes: wide
 ---
 
 ### Certified  
-- {% include figure image_path="/assets/images/aws.png" %} AWS Certified Solutions Architect – Associate
+- AWS Certified Solutions Architect Associate
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: Azure Administrator Associate
 
