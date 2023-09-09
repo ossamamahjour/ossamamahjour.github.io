@@ -12,7 +12,7 @@ main:
     url: /assets/docs/CV-Ossama-MAHJOUR-DevOps-Engineer.pdf  
   - title: "Certificates"
     url: /certificates/
-  - title: "Achievements"
-    url: /achievements/
+  #- title: "Achievements"
+  #  url: /achievements/
   - title: "Archive"
     url: /year-archive/
