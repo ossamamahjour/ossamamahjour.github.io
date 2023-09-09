@@ -1,12 +1,11 @@
 ---
 title: "Demo your projects on GitHub with gif"
-date:   2023-09-09 20:54:00 
+date:   February 21, 2022 
 toc: false
 tags:
   - gif
 
 #date: February 21, 2022
-date:   2023-09-09 20:54:00 
 header:
   teaser: /assets/images/thumbnails/joel-filipe-thumb-400.jpg
 excerpt: "How to create gif programmatically on MacOS for free"
