@@ -26,7 +26,7 @@ feature_row0-1:
         - Flask
         - ECS
         - Docker
-
+<!-- 
 feature_row0-2:
   - image_path: assets/gif/wumpus.gif
     alt: "Java game demo"
@@ -43,7 +43,7 @@ feature_row0-2:
         - MVC
         - OOP
         - UML
-
+-->
 feature_row0-3:
   - image_path: assets/gif/ghostkitchen.gif
     alt: "Node.js app demo"
