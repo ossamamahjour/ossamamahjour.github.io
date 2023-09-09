@@ -1,6 +1,6 @@
 ---
 title: "Demo your projects on GitHub with gif"
-date:   February 21, 2022 
+date:   2023-02-26 18:20:00 +0100 
 toc: false
 tags:
   - gif
