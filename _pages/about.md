@@ -4,7 +4,7 @@ permalink: /about/
 title: About
 author_profile: true
 header:
-    overlay_image: /assets/images/devops-backround.png
+    overlay_image: /assets/images/joel-filipe-small-warmer.jpg.png
     caption: ""
 classes: wide
 date: February 21, 2022
