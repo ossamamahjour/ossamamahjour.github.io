@@ -4,7 +4,7 @@ permalink: /about/
 title: About
 author_profile: true
 header:
-    overlay_image: /assets/images/joel-filipe-small-warmer.jpg
+    overlay_image: /assets/images/clay-banks-unsplash.jpg
     caption: ""
 classes: wide
 date: February 21, 2022
