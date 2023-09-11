@@ -4,7 +4,7 @@ permalink: /certificates/
 title: Certificates
 author_profile: true
 header:
-    overlay_image: /assets/images/rut-miit-RpxgkJRqg5I2-unsplash
+    overlay_image: /assets/images/rut-miit-RpxgkJRqg5I2-unsplash.jpg
     caption: "Photo by [Ahmet Kurt](https://unsplash.com/@AhmetKurt) on [Unsplash](https://unsplash.com)"
 classes: wide
 ---
