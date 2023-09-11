@@ -251,6 +251,7 @@ whitelist:
 
 # Archives
 #  Type
+
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
 #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
 #  Path (examples)
