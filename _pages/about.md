@@ -4,7 +4,7 @@ permalink: /about/
 title: About
 author_profile: true
 header:
-    overlay_image: /assets/images/kari-shea-unsplash.jpg
+    overlay_image: /assets/images/billy-huynh-unsplash.jpg
     caption: ""
 classes: wide
 date: February 21, 2022
