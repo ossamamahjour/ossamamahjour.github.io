@@ -5,7 +5,7 @@ title: About
 author_profile: true
 header:
     overlay_image: /assets/images/skye-studios-unsplash.jpg
-    caption: ""
+    caption: "Photo by [Skye Studios](https://unsplash.com/@skyestudios) on [Unsplash](https://unsplash.com)"
 classes: wide
 date: February 21, 2022
 ---
