@@ -4,8 +4,8 @@ permalink: /certificates/
 title: Certificates
 author_profile: true
 header:
-    overlay_image: /assets/images/certification1.png
-    caption: "Photo by [Skye Studios](https://unsplash.com/@skyestudios) on [Unsplash](https://unsplash.com)"
+    overlay_image: /assets/images/anton-maksimov-5642-su-jf0L7XEq0nA-unsplash.jpg
+    caption: "Photo by [Ahmet Kurt](https://unsplash.com/@AhmetKurt) on [Unsplash](https://unsplash.com)"
 classes: wide
 ---
 
