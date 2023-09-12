@@ -287,6 +287,22 @@ compress_html:
   ignore:
     envs: development
 
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      show_date: true
+      comments: true
+      share: true
+      related: true
+      mathjax: true
+
   # _portfolio
   - scope:
       path: ""
@@ -326,18 +342,3 @@ picture:
       source_default:
         width: "320"
 
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      show_date: true
-      comments: true
-      share: true
-      related: true
-      mathjax: true
