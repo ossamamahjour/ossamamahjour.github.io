@@ -4,7 +4,13 @@ date:   2023-02-26 18:20:00 +0100
 toc: false
 tags:
   - gif
-
+share: true
+comments: true
+classes: wide
+author_profile: true
+output: 
+    html_document:
+        fig_caption: yes
 #date: February 21, 2022
 header:
   teaser: /assets/images/thumbnails/joel-filipe-thumb-400.jpg
