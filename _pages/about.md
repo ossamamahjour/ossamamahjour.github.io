@@ -20,39 +20,39 @@ I’m a team player who has the ability to automate the repetitive and complex t
 
 **Experience and Hands-on :**
 
-- Experience with building modern and complete CI/CD pipelines 
+• Experience with building modern and complete CI/CD pipelines 
 
-- Experience with AWS, GCP and Azure (Storage, Application Services, Deployment, and Management)
+• Experience with AWS, GCP and Azure (Storage, Application Services, Deployment, and Management)
 
-- Worked with Infra as code tools Ansible, Terraform 
+• Worked with Infra as code tools Ansible, Terraform 
 
-- Used Kubernetes and openshift to orchestrate the deployment, scaling, and management of Docker Containers
+• Used Kubernetes and openshift to orchestrate the deployment, scaling, and management of Docker Containers
 
-- Capture and visualize metrics using Kibana Prometheus and Grafana
+• Capture and visualize metrics using Kibana Prometheus and Grafana
 
-- Experience in Linux System Administration by managing servers in a distributed and highly available critical infrastructure
+• Experience in Linux System Administration by managing servers in a distributed and highly available critical infrastructure
 
 **DevOps & Cloud skills:** 
 
-- Cloud Services: Azure, AWS, GCP
+• Cloud Services: Azure, AWS, GCP
 
-- Infrastructure automation tools: Ansible, Terraform
+• Infrastructure automation tools: Ansible, Terraform
 
-- Continuous integration: Jenkins, GitLab CI
+• Continuous integration: Jenkins, GitLab CI
 
-- Containerization: Docker, Kubernetes, OpenShift
+• Containerization: Docker, Kubernetes, OpenShift
 
-- Monitoring: Prometheus, Grafana, Kibana 
+• Monitoring: Prometheus, Grafana, Kibana 
 
-- Administration: Linux(Ubuntu, Debian), Windows Server 2016
+• Administration: Linux(Ubuntu, Debian), Windows Server 2016
 
-- Programming language & SGBD : Java-Python-Bash Scripting-SQL Server, MySql
+• Programming language & SGBD : Java-Python-Bash Scripting-SQL Server, MySql
 
-- Networking: CCNA1, CCNA2, CCNA3, CCNA4
+• Networking: CCNA1, CCNA2, CCNA3, CCNA4
 
-- Knowledge Management tools: JIRA, Confluence
+• Knowledge Management tools: JIRA, Confluence
 
-- Professional communication skill include fluency and proficiency in English and French.
+• Professional communication skill include fluency and proficiency in English and French.
 
 I'm always looking and up for new challenges, so bring it on, I'm always ready 
 
