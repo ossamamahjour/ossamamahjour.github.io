@@ -3,7 +3,7 @@ title: "DevOps Trends in 2023 and Predicting the Future of DevOps"
 date:   2023-09-20 18:20:00 +0300 
 toc: false
 tags:
-  #- gif
+  - DevOps
 share: true
 comments: true
 classes: wide
@@ -14,7 +14,7 @@ output:
 #date: February 21, 2022
 header:
   teaser: /assets/images/thumbnails/joel-filipe-thumb-400.jpg
-excerpt: "How to create gif programmatically on MacOS for free"
+excerpt: "The Future of DevOps: Trends and Predictions for 2023"
 ---
 
 
