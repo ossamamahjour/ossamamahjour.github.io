@@ -3,8 +3,6 @@ title: "Running Cassandra and PostgreSQL in Docker"
 toc: true
 toc_label: "Content"
 tags:
-  - Udacity Nanodegree 
-  - Data Engineering
   - Docker
   - Cassandra
   - PostgreSQL
