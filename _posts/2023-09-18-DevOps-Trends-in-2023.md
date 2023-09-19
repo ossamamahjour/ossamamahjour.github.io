@@ -3,7 +3,7 @@ title: "DevOps Trends in 2023 and Predicting the Future of DevOps"
 date:   2023-09-18 18:20:00 +0100 
 toc: false
 tags:
-  - gif
+  - DevOps
 share: true
 comments: true
 classes: wide
@@ -42,9 +42,7 @@ DevOps extends beyond coding it's also about delivering business value. In the f
 **The Growing Dominance of Serverless Computing**
 
 Serverless computing represents a novel approach to cloud computing, enabling developers to code without concerns about infrastructure management.
-
 This innovative paradigm holds the potential to transform application deployment and management, delivering a more efficient and cost-effective means of scaling and overseeing infrastructure.
-
 A primary advantage of serverless computing is that it offers auto-scaling, which ensures that resources are automatically allocated as needed, allowing for better resource utilization. 
 
 
