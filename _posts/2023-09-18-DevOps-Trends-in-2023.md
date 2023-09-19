@@ -1,9 +1,9 @@
 ---
 title: "DevOps Trends in 2023 and Predicting the Future of DevOps"
-date:   2023-09-19 18:20:00 +0300 
+date:   2023-09-18 18:20:00 +0100 
 toc: false
 tags:
-  - DevOps
+  - gif
 share: true
 comments: true
 classes: wide
@@ -14,8 +14,9 @@ output:
 #date: February 21, 2022
 header:
   teaser: /assets/images/thumbnails/joel-filipe-thumb-400.jpg
-excerpt: "The Future of DevOps: Trends and Predictions for 2023"
+excerpt: "DevOps Trends in 2023 and Predicting the Future of DevOps"
 ---
+
 
 Since its inception in 2009, DevOps has been widely adopted due to its ability to streamline the software development process, increase deployment speed, and enhance efficiency.
 As we look to the future of DevOps, we will see several trends that are set to shape its evolution in the coming years.
