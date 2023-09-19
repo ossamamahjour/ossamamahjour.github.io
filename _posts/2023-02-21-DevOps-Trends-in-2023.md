@@ -1,5 +1,5 @@
 ---
-title: "Demo your projects on GitHub with gif"
+title: "DevOps Trends in 2023 and Predicting the Future of DevOps"
 date:   2023-02-21 18:20:00 +0100 
 toc: false
 tags:
@@ -14,7 +14,7 @@ output:
 #date: February 21, 2022
 header:
   teaser: /assets/images/thumbnails/joel-filipe-thumb-400.jpg
-excerpt: "How to create gif and demo"
+excerpt: "DevOps Trends in 2023 and Predicting the Future of DevOps"
 ---
 
 
