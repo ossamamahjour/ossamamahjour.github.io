@@ -17,6 +17,7 @@ header:
 excerpt: "DevOps Trends in 2023 and Predicting the Future of DevOps"
 ---
 
+{% include figure image_path="/assets/images/posts/devops-trends.png" %}
 
 Since its inception in 2009, DevOps has been widely adopted due to its ability to streamline the software development process, increase deployment speed, and enhance efficiency.
 As we look to the future of DevOps, we will see several trends that are set to shape its evolution in the coming years.
