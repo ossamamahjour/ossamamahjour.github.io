@@ -1,6 +1,6 @@
 ---
 title: "DevOps Trends in 2023 and Predicting the Future of DevOps"
-date:   2023-09-20 18:20:00 +0300 
+date:   2023-09-19 18:20:00 +0300 
 toc: false
 tags:
   - DevOps
